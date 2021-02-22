@@ -36,9 +36,8 @@ experience:
     location: Kristiansand
     date_start: '2019-02-01'
     date_end: '2016-12-31'
-    description: |2-
-                  Lege i spesialisering (LIS-3 stilling) ved barne- og ungdomspsykiatrisk poliklinikk. Utredning, diagnostikk og behandling av et bredt spekter av psykiske lidelser. I tillegg også deltagelse i RISK, en gruppeterapeutisk tilnærming til behandling for angst og OCD. 
-
+    description: Poliklinikk. 
+    
   - title: Allmennlege i spesialisering
     company: Legene på Kjøita
     location: Kristiansand
