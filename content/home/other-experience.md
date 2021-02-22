@@ -45,11 +45,11 @@ experience:
     date_end: '2019-06-01'
     description: ''
 
-  - title: IKT-rådgiver
+  - title: IKT-rådgiver, konsulent
     company: Klinikk for E-helse, SSHF
     location: Kristiansand
     date_start: '2017-12-01'
     date_end: '2018-02-01'
-    description: 'Regional standardisering av DIPS'
+    description: ''
 
 ---
