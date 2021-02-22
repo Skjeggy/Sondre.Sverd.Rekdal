@@ -41,4 +41,4 @@ Han har også en master ved UIA i helse- og sosialinformatikk.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Last ned min {{< staticref "media/demo_resume.pdf" "newtab" >}}CV!{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Last ned min {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}!
