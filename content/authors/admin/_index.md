@@ -1,6 +1,6 @@
 ---
 title: Sondre Sverd Rekdal
-role: Allmennlege i spesialisering
+role: Allmennlege i Spesialisering
 avatar_filename: avatar.jpeg
 bio: Allmennlege i spesialisering (ALIS), helseinformatiker og kogntiv
   atferdsterapeut.
