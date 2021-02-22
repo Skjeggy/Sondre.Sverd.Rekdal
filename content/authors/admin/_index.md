@@ -4,9 +4,9 @@ role: Allmennlege i spesialisering
 bio: Allmennlege i spesialisering (ALIS), helseinformatiker og kogntiv
   atferdsterapeut.
 interests:
-  - Tech
-  - Økonomi
-  - Derp
+  - Teknologi
+  - Psykiatri
+  - Forskning
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,10 +35,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Sondre Sverd Rekdal er en allmennlege i spesialisering med 2-3 år igjen før han er spesialist. Han er ferdig med grunnkurs A og B, samt sykehusåret. Han har så langt rett over 1 år av sine 2 årsverk i allmennmedisin ferdig. 
+Sondre Sverd Rekdal er en allmennlege i spesialisering og kognitiv atferdsterapeut. Han har også en master ved UIA i helse- og sosialinformatikk. Han er ca 2 år fra å være ferdig spesialist i allmennmedisin.
 
-Han har også en master ved UIA i helse- og sosialinformatikk. 
+Han er både en allsidig kliniker og en teknologisk altmuligmann. For tiden forsker han på behandling av angst i allmennpraksis. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Last ned min {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}!
+{{< icon name="download" pack="fas" >}} Last ned hans CV {{< staticref "media/resume.pdf" "newtab" >}}her{{< /staticref >}}.
