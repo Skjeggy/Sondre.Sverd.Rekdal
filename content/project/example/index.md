@@ -8,8 +8,7 @@ date: 2021-02-22T19:13:56.717Z
 external_link: https://uia.brage.unit.no/uia-xmlui/bitstream/handle/11250/2618659/Rekdal%2c%20Sondre%20Sverd.pdf?sequence=1&isAllowed=y
 url_slides: ""
 subtitle: Masteroppgave
-tags:
-  - Deep Learning
+tags: []
 links: []
 image:
   caption: Photo by rawpixel on Unsplash
