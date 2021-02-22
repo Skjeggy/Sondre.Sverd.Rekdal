@@ -45,7 +45,7 @@ experience:
     date_end: '2019-06-01'
     description: ''
 
-  - title: IKT-rådgiver, konsulent
+  - title: IKT-rådgiver
     company: Klinikk for E-helse, SSHF
     location: Kristiansand
     date_start: '2017-12-01'
