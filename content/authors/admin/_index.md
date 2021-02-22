@@ -36,8 +36,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Sondre Sverd Rekdal er en allmennlege i spesialisering og kognitiv atferdsterapeut. Han har også en master ved UIA i helse- og sosialinformatikk. Han er ca 2 år fra å være ferdig spesialist i allmennmedisin.
+Jeg er en allmennlege i spesialisering og kognitiv atferdsterapeut. Jeg har også en master ved UIA i helse- og sosialinformatikk. Per nå er jeg ca 2 år fra å være ferdig spesialist i allmennmedisin.
 
-Han er både en allsidig kliniker og en teknologisk altmuligmann. For tiden forsker han på behandling av angst i allmennpraksis. 
+Utover å være både en allsidig kliniker og en teknologisk altmuligmann, forsker jeg for tiden på behandling av angst i allmennpraksis. 
 
-{{< icon name="download" pack="fas" >}} Last ned hans CV {{< staticref "media/resume.pdf" "newtab" >}}her{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Last ned min CV {{< staticref "media/resume.pdf" "newtab" >}}her{{< /staticref >}}.
