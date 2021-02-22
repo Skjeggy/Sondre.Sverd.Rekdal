@@ -36,8 +36,8 @@ experience:
     location: Kristiansand
     date_start: '2019-02-01'
     date_end: '2016-12-31'
-    description: Poliklinikk. 
-    
+    description: '' 
+
   - title: Allmennlege i spesialisering
     company: Legene på Kjøita
     location: Kristiansand
@@ -57,5 +57,5 @@ experience:
     location: Kristiansand
     date_start: '2015-09-01'
     date_end: '2016-02-01'
-    description: 'Lege ved langtids psykosepost, ved akuttavdelingen og ved sikkerhetsposten. Tjeneste som forvakt.'
+    description: ''
 ---
