@@ -35,7 +35,7 @@ experience:
     company_url: ''
     location: Kristiansand
     date_start: '2019-02-01'
-    date_end: '2016-12-31'
+    date_end: '2020-02-01'
     description: '' 
 
   - title: Allmennlege i spesialisering
