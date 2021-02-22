@@ -6,7 +6,7 @@ draft: false
 featured: false
 external_link: https://uia.brage.unit.no/uia-xmlui/bitstream/handle/11250/2618659/Rekdal%2c%20Sondre%20Sverd.pdf?sequence=1&isAllowed=y
 image:
-  filename: featured
+  filename: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
   focal_point: Smart
   preview_only: false
 ---
