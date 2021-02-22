@@ -36,7 +36,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Jeg er en allmennlege i spesialisering og kognitiv atferdsterapeut. Jeg har også en master ved UIA i helse- og sosialinformatikk. Per nå er jeg ca 2 år fra å være ferdig spesialist i allmennmedisin.
+Jeg er en allmennlege i spesialisering og kognitiv atferdsterapeut. Jeg har også en master ved UIA i [helse- og sosialinformatikk](https://www.uia.no/studier/helse-og-sosialinformatikk). Per nå er jeg ca 2 år fra å være ferdig spesialist i allmennmedisin.
 
 Utover å være både en allsidig kliniker og en teknologisk altmuligmann, forsker jeg for tiden på behandling av angst i allmennpraksis. 
 
