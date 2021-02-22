@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Erfaring
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Allmennlege i spesialisering 
+    company: Legene på Kjøita
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+    location: Kristiansand
+    date_start: '2020-06-01'
+    date_end: '2020-12-31'
+    description: ""
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Sykehusår i barne- og ungdomspsykiatri
+    company: Sørlandet Sykehus
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
+    location: Kristiansand
+    date_start: '2019-02-01'
     date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2- 
+          Lege i spesialisering (LIS-3 stilling) ved barne- og ungdomspsykiatrisk poliklinikk. Utredning, diagnostikk og behandling av et bredt spekter av psykiske lidelser. I tillegg også deltagelse i RISK, en gruppeterapeutisk tilnærming til behandling for angst og OCD.
+
+  - title: Allmennlege i spesialisering
+    company: Legene på Kjøita
+    location: Kristiansand
+    date_start: '2017-10-01'
+    date_end: '2019-01-01'
+    description: ''
+
+  - title: Turnuslege
+    company: Sørlandet Sykehus Kristiansand og Bystranda legekontor
+    location: Kristiansand
+    date_start: '2016-03-01'
+    date_end: '2017-08-01'
+    description: ''
+
+  - title: Vikarlege
+    company: Psykatrisk avd., SSHF Kristiansand
+    location: Kristiansand
+    date_start: '2015-09-01'
+    date_end: '2016-02-01'
+    description: 'Lege ved langtids psykosepost, ved akuttavdelingen og ved sikkerhetsposten. Tjeneste som forvakt.'
 ---
