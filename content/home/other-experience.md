@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Klinisk erfaring
+title: Annen erfaring
 subtitle:
 
 # Date format for experience
@@ -22,35 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Allmennlege i spesialisering 
-    company: Legene på Kjøita
+  - title: Rådgivende lege i ALIS-kontor Sør
+    company: Kristiansand Kommune
     company_url: ''
     location: Kristiansand
-    date_start: '2020-06-01'
-    date_end: '2020-12-31'
-    description: ""
+    date_start: '2020-09-01'
+    date_end: ''
+    description: '20% stilling'
         
-  - title: Sykehusår i barne- og ungdomspsykiatri
-    company: Sørlandet Sykehus
+  - title: IKT-rådgiver
+    company: ABUP Forskning og Utvikling, SSHF
     company_url: ''
     location: Kristiansand
-    date_start: '2019-02-01'
-    date_end: '2016-12-31'
-    description: '' 
+    date_start: '2020-09-01'
+    date_end: ''
+    description: '50% stilling. Her også involvert i forskning.' 
 
-  - title: Allmennlege i spesialisering
-    company: Legene på Kjøita
+  - title: Deltagelse i referansegruppe - Én innbygger – én journal
+    company: Kristiansand Kommune
     location: Kristiansand
-    date_start: '2017-10-01'
-    date_end: '2019-01-01'
+    date_start: '2018-01-01'
+    date_end: '2019-06-01'
     description: ''
 
-  - title: Turnuslege
-    company: Sørlandet Sykehus Kristiansand og Bystranda legekontor
+  - title: IKT-rådgiver
+    company: Klinikk for E-helse, SSHF
     location: Kristiansand
-    date_start: '2016-03-01'
-    date_end: '2017-08-01'
-    description: ''
+    date_start: '2017-12-01'
+    date_end: '2018-02-01'
+    description: 'Regional standardisering av DIPS'
 
   - title: Vikarlege
     company: Psykatrisk avd., SSHF Kristiansand
