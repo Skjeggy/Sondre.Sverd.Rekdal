@@ -2,20 +2,11 @@
 title: Sondre Sverd Rekdal
 role: Allmennlege i spesialisering
 bio: Allmennlege i spesialisering, helseinformatiker og kogntiv atferdsterapeut.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Skjeggy/
@@ -23,19 +14,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/sondre-rekdal-150a63112/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Kristiansand Kommune
+    url: https://www.kristiansand.kommune.no/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Videreutdanning i Kognitiv Atferdsterapi
+      institution: RBUP
+      year: 2021
+    - course: Master i helse- og sosialinformatikk
+      institution: Universitetet i Agder
+      year: 2019
+    - course: "Cand. med. "
+      institution: Jessenius Faculty of Medicine
+      year: 2015
 email: ""
 superuser: true
 highlight_name: false
@@ -46,4 +37,4 @@ Han har også en master ved UIA i helse- og sosialinformatikk.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Last ned min {{< staticref "media/demo_resume.pdf" "newtab" >}}CV!{{< /staticref >}}.
