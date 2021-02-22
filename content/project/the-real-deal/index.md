@@ -1,5 +1,5 @@
 ---
-title: The real deal
+title: Fastlegers informasjonsbehov ved medisinsk avstandsoppfølging
 date: 2021-02-22T21:05:52.989Z
 summary: Mastergradsoppgave.
 draft: false
