@@ -29,7 +29,7 @@ education:
     - course: Master i helse- og sosialinformatikk
       institution: Universitetet i Agder
       year: 2019
-    - course: "Cand. med. "
+    - course: Cand. med.
       institution: Jessenius Faculty of Medicine
       year: 2015
 email: ""
