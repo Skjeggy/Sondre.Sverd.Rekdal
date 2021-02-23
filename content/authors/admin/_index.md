@@ -38,6 +38,6 @@ highlight_name: false
 ---
 Jeg er en allmennlege i spesialisering og kognitiv atferdsterapeut. I tillegg har jeg en master ved UIA i [helse- og sosialinformatikk](https://www.uia.no/studier/helse-og-sosialinformatikk). Per nå er jeg ca 2 år fra å være ferdig spesialist i allmennmedisin.
 
-Utover å være både en allsidig kliniker og en teknologisk altmuligmann (eksemplifisert ved denne nettsiden som jeg selv har laget), forsker jeg for tiden på behandling av angst hos barn og unge i allmennpraksis. 
+Utover å være både en allsidig kliniker og en teknologisk altmuligmann (eksemplifisert bl.a. ved denne nettsiden som jeg selv har laget), forsker jeg for tiden på behandling av angst hos barn og unge i allmennpraksis. 
 
 {{< icon name="download" pack="fas" >}} Last ned min CV {{< staticref "media/resume.pdf" "newtab" >}}her{{< /staticref >}}.
