@@ -36,8 +36,6 @@ email: "sondrerekdal@gmail.com"
 superuser: true
 highlight_name: false
 ---
-Jeg er en ALIS (allmennlege i spesialisering), helseinformatiker og kognitiv atferdsterapeut. 
-
-Utover å være både en allsidig kliniker og en teknologisk altmuligmann (eksemplifisert bl.a. ved denne nettsiden som jeg selv har laget), forsker jeg for tiden på behandling av angst hos barn og unge i allmennpraksis. 
+Jeg er en ALIS (allmennlege i spesialisering), helseinformatiker og kognitiv atferdsterapeut. Utover å være både en allsidig kliniker og en teknologisk altmuligmann (eksemplifisert bl.a. ved denne nettsiden som jeg selv har laget), forsker jeg for tiden på behandling av angst hos barn og unge i allmennpraksis. 
 
 {{< icon name="download" pack="fas" >}} Last ned min CV {{< staticref "media/resume.pdf" "newtab" >}}her{{< /staticref >}}.
