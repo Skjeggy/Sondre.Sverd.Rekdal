@@ -23,7 +23,7 @@ organizations:
     url: https://www.kristiansand.kommune.no/
 education:
   courses:
-    - course: Videreutdanning i Kognitiv Atferdsterapi
+    - course: Videreutdanning i Kognitiv Atferdsterapi (2 år)
       institution: RBUP
       year: 2021
     - course: Master i helse- og sosialinformatikk
