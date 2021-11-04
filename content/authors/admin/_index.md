@@ -26,7 +26,7 @@ education:
     - course: Videreutdanning i Kognitiv Atferdsterapi, 2-årig utdanning
       institution: RBUP
       year: 2021
-    - course: Master i helse- og sosialinformatikk
+    - course: Master i [helse- og sosialinformatikk](https://www.uia.no/studier/helse-og-sosialinformatikk)
       institution: Universitetet i Agder
       year: 2019
     - course: Cand. med.
@@ -36,7 +36,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Jeg er en allmennlege i spesialisering og kognitiv atferdsterapeut. I tillegg har jeg en master ved UIA i [helse- og sosialinformatikk](https://www.uia.no/studier/helse-og-sosialinformatikk). Per nå er jeg ca 2 år fra å være ferdig spesialist i allmennmedisin.
+Jeg er en ALIS, helseinformatiker og kognitiv atferdsterapeut. 
 
 Utover å være både en allsidig kliniker og en teknologisk altmuligmann (eksemplifisert bl.a. ved denne nettsiden som jeg selv har laget), forsker jeg for tiden på behandling av angst hos barn og unge i allmennpraksis. 
 
