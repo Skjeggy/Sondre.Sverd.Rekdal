@@ -6,7 +6,7 @@ bio: Allmennlege i spesialisering (ALIS), helseinformatiker og kogntiv
   atferdsterapeut.
 interests:
   - Teknologi
-  - Psykiatri
+  - Allmennmedisin
   - Forskning
 social:
   - icon: envelope
