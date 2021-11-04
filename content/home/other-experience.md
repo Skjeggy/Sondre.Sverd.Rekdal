@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Rådgivende lege i ALIS-kontor Sør i 20% stilling
+  - title: Rådgivende lege i ALIS Sør
     company: Kristiansand Kommune
     company_url: ''
     location: Kristiansand
@@ -35,7 +35,7 @@ experience:
     company_url: ''
     location: Kristiansand
     date_start: '2020-09-01'
-    date_end: ''
+    date_end: '2021-12-31'
     description: '' 
 
   - title: Deltagelse i referansegruppe - Én innbygger – én journal
