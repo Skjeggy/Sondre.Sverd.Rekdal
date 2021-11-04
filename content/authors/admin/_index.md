@@ -26,13 +26,13 @@ education:
     - course: Videreutdanning i Kognitiv Atferdsterapi, 2-årig utdanning
       institution: RBUP
       year: 2021
-    - course: Master i [helse- og sosialinformatikk](https://www.uia.no/studier/helse-og-sosialinformatikk)
+    - course: Master i helse- og sosialinformatikk
       institution: Universitetet i Agder
       year: 2019
     - course: Cand. med.
       institution: Jessenius Faculty of Medicine
       year: 2015
-email: ""
+email: "sondrerekdal@gmail.com"
 superuser: true
 highlight_name: false
 ---
