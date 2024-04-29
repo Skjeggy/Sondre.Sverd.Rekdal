@@ -21,6 +21,10 @@ feature:
   icon_pack: fas
   name: Allmennlege
 - description: ""
+  icon: magnifying-glass
+  icon_pack: fas
+  name: Forskning
+- description: ""
   icon: cogs
   icon_pack: fas
   name: Teknisk anlagt

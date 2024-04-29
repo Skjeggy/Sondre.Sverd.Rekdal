@@ -30,20 +30,13 @@ experience:
     date_end: ''
     description: ''
         
-  - title: IKT-rådgiver i 50% stilling
+  - title: Rådgiver
     company: ABUP Forskning og Utvikling, SSHF
     company_url: ''
     location: Kristiansand
     date_start: '2020-09-01'
     date_end: '2021-12-31'
-    description: '' 
-
-  - title: Deltagelse i referansegruppe - Én innbygger – én journal
-    company: Kristiansand Kommune
-    location: Kristiansand
-    date_start: '2018-01-01'
-    date_end: '2019-06-01'
-    description: ''
+    description: 'Forskningsstilling og teknisk rådgiver' 
 
   - title: IKT-rådgiver
     company: Klinikk for E-helse, SSHF

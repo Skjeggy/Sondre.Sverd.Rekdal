@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Allmennlege i spesialisering 
+    company: Vinkjelleren Legesenter
+    company_url: ''
+    location: Grimstad
+    date_start: '2022-03-01'
+    date_end: '2020-12-31'
+    description: ""
+
+  - title: Allmennlege i spesialisering 
     company: Legene på Kjøita
     company_url: ''
     location: Kristiansand
